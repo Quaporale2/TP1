@@ -1,5 +1,2 @@
-Sa marche ou bien ?
-
-Sa a l'air, mais c'est compliqué de fou github :')
-
-OK encore un test...
+Ex2:
+Il a créé le répertoire C:/SPB_Data/ pour mettre les données.
